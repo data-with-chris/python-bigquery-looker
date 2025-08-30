@@ -25,8 +25,8 @@ This project demonstrates how **Python**, **BigQuery** and **Looker Studio** can
 ## Setup and Installation
 1. Clone the repo:
 ```
-git clone <your-repo-url>
-cd ev_charger_project
+git clone https://github.com/data-with-chris/python-bigquery-looker.git
+cd python-bigquery-looker
 ```
 2. Create and activate a virtual environment
 ```
