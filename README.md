@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+Running the application will produce the fact and dimension table files in .csv format, which can then be ingested into **BigQuery** and used to inform visualisations in **Looker Studio**.
 
 ## Visualisation
 ### Sample:
