@@ -1,0 +1,253 @@
+ObjId,Station name,Station address,Opening hours,Operator,Number of station,Number of plugs,Charger rating,CHAdeMO,CCS/SAE,Tesla(Fast),Latitude,Longitude
+1,No 2 Sportsground Park," Smith Street, Newcastle West, 2302",,Chargefox,1,2,60kW,0,2,0,-32.930158,151.7606332
+2,Albury Waste Management Centre,"565 Mudge Street, Hamilton Valley, 2641",7AM - 5PM weekdays 9AM - 4PM weekends,Chargefox,1,2,50kW,1,1,0,-36.028496,146.8958713
+3,NRMA - Ballina,"44 Bangalow Road, Ballina, 2478",Open 24/7,Chargefox,2,4,50kW - 350kW,1,3,0,-28.85761,153.5616904
+4,NRMA - Coffs Harbour," Pacific Hwy, North Boambee Valley, 2450",Open 24/7,Chargefox,1,4,350kW,2,2,0,-30.317745,153.0898181
+5,NRMA - Sydney,"4 Defries Avenue, Zetland, 2017",6:00 AM - 12:00 AM,Chargefox,2,4,50kW - 350kW,1,3,0,-33.905521,151.2128
+6,NRMA - Gundagai,"31 Annie Pyers Drive, Gundagai, 2722",Open 24/7,Chargefox,2,4,50kW,1,3,0,-35.002352,148.1102642
+7,NRMA - Port Macquarie,"1067 Oxley Highway, Thrumster, 2444",Open 24/7,Chargefox,2,4,180kW,1,3,0,-31.463941,152.8219487
+8,NRMA - Karuah,"403 Tarean Road, Karuah, 2324",Open 24/7,Chargefox,2,4,50kW - 350kW,1,3,0,-32.65385,151.9625799
+9,NRMA - Cooma," Yulin Avenue, Cooma, 2630",Open 24/7,Chargefox,2,4,50kW - 350kW,1,3,0,-36.219283,149.133225
+10,NRMA - Goulburn,"53 Sydney Road, Goulburn, 2580",Open 24/7,Chargefox,2,6,50kW - 350kW,3,3,0,-34.747962,149.7496447
+11,NRMA - Shell Cove," Harbour Boulevard, Shell Cove, 2529",Open 24/7,Chargefox,1,4,350kW,2,2,0,-34.588599,150.8661125
+12,Audi Centre Sydney,"895 South Dowling Street, Zetland, 2017",Open 24/7,Chargefox,1,1,165kW,0,1,0,-33.907015,151.2130187
+13,Mirvac South Eveleigh,"2 Central Avenue, Eveleigh, 2015",5am - 11:30pm,Chargefox,2,4,50kW,2,2,0,-33.895581,151.1958121
+14,Berowra Tennis Centre,"6 Boundary Street, Berowra, 2081",,Chargefox,1,2,75kW,0,2,0,-33.621379,151.1494479
+15,Byron Bay Library," Lawson Street, Byron Bay, 2481",,Chargefox,1,2,50kW,1,1,0,-28.643224,153.615692
+16,Lismore City Council,"44 Molesworth Street, Lismore, 2480",Open 24/7,Chargefox,1,2,75kW,1,1,0,-28.806548,153.2786369
+17,The Heffron Centre,"439 Bunnerong Road, Maroubra, 2035",Open 24/7,Chargefox,4,8,25kW,4,4,0,-33.951003,151.2320639
+18,ENGIE - Warriewood Square,"12 Jacksons Road, Warriewood, 2102",,Chargefox,1,2,120kW,0,2,0,-33.695602,151.2962879
+19,ENGIE - Chatswood Chase,"345 Victoria Avenue, Chatswood, 2067",,Chargefox,1,2,120kW,0,2,0,-33.794005,151.1865994
+20,ENGIE - Roselands Shopping Centre,"24 Roselands Drive, Roselands, 2196",Closes 6pm,Chargefox,1,2,120kW,0,2,0,-33.935008,151.069206
+21,ENGIE - Lake Haven Centre," Lake Haven Drive, Lake Haven, 2263",Open 24/7,Chargefox,1,2,120kW,0,2,0,-33.240884,151.5036157
+22,Soldiers Point Marina," Sunset Boulevard, Soldiers Point, 2317",Open 24/7,Chargefox,1,2,24kW,1,1,0,-32.701388,152.0626458
+23,ENGIE - Greenway Wetherill Park,"1183-1187 The Horsley Drive, Wetherill Park, 2164",,Chargefox,1,2,120kW,0,2,0,-33.850403,150.8984016
+24,ENGIE - DFO Homebush,"3-5 Underwood Road, Homebush, 2140",10am- 7pm,Chargefox,1,2,120kW,0,2,0,-33.855193,151.0771984
+25,Pennant Hills Toyota,"330 Pennant Hills Road, Pennant Hills, 2120",,Chargefox,1,2,50kW,0,2,0,-33.736621,151.0743388
+26,KFC - Goulburn South,"179-183 Hume Street, Goulburn, 2580",Open 24/7,Chargefox,1,2,80kW,0,2,0,-34.771921,149.6924162
+27,Woolworths North Parramatta,"1-9 North Rocks Road, North Rocks, 2151",,Chargefox,1,4,200kW,0,4,0,-33.792866,150.9995553
+28,Genesis Health Care,"38 Camden Road, Campbelltown, 2560",Open 24/7,Chargefox,1,4,100kW,1,3,0,-34.071284,150.8061644
+29,Ampol Foodary St Ives,"164 Mona Vale Rd, St Ives NSW 2075, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.7306437,151.1571089
+30,Ampol Foodary Gosford West (Eastbound),"71 Central Coast Highway, West Gosford",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.427468,151.321293
+31,Ampol Foodary Marsden Park,"875 Richmond Rd, Marsden Park NSW 2765, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.71606446,150.8443544
+32,Ampol Foodary Northmead,"98-100 Windsor Rd, Northmead NSW 2152, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.787777,150.994685
+33,Ampol Foodary Edmondson Park ,"2072 Camden Valley Way, Edmondson Park NSW 2174, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.95554925,150.865275
+34,Ampol Foodary Hazelbrook,"198-199 Great Western Hwy, Hazelbrook NSW 2779, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.72104211,150.452198
+35,Ampol Foodary Waitara,59-61 Pacific Hwy Waitara 2077,Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.710683,151.102535
+36,Ampol Foodary Brownsville ,"342 Kanahooka Rd, Brownsville NSW 2530, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-34.48575434,150.8064239
+37,Ampol Lakemba ,"81 Wangee Rd, Lakemba NSW 2195, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.91158022,151.0733967
+38,Ampol Foodary Wollongong North,"9 Flinders St, Wollongong NSW 2500, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-34.41516516,150.8931358
+39,Ampol Foodary Alexandria,"133 Wyndham St Cnr Mcevoy St, Alexandria, NSW, 2015, Australia",Open 24/7,AmpCharge,1,2,150 kW,0,2,0,-33.90214,151.20003
+40,Ampol Foodary Pheasants Nest Southbound,"South Bound, Hume Hwy, Pheasants Nest NSW 2574, Australia",Open 24/7,AmpCharge,3,9,150kW (300kW upgrade coming soon),3,6,0,-34.28254012,150.6397707
+41,Ampol Foodary Pheasants Nest Northbound ,"Lots 1 & 2 Hume Hwy, Pheasants Nest, NSW, 2574",Open 24/7,AmpCharge,3,9,50 kW (300kW upgrade coming soon),3,6,0,-34.28321378,150.6364411
+42,Ampol Foodary Penrith,"153 Coreen Ave, Penrith NSW 2750, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.74299278,150.6929624
+43,Ampol Foodary Werrington,"Cnr Dunheved Rd & Henry Lawson Dr, Werrington NSW 2747, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.74597888,150.7407894
+44,Ampol Foodary Glenbrook,"78 Great Western Hwy, Glenbrook NSW 2773, Australia",Open 24/7,AmpCharge,1,2,150 kW,1,1,0,-33.76539099,150.6214957
+45,BP Marulan Northbound,"8 George St, Marulan NSW 2579, Australia",Open 24/7,bp pulse,1,2,75 kW,1,1,0,-34.719342,149.995591
+46,BP Marulan Southbound,"15597 Hume Hwy, Marulan NSW 2579, Australia",Open 24/7,bp pulse,1,2,75 kW,1,1,0,-34.718458,150.000639
+47,BP Ingleburn,"89 Williamson Road, MacDonald Rd, Ingleburn NSW 2565, Australia",Open 24/7,bp pulse,2,4,75 kW,0,4,0,-33.98873226,150.8592698
+48,BP Macarthur,"2a Blaxland Rd, Campbelltown NSW 2560, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-34.05317082,150.8236398
+49,BP Pulse Kellyville ,"19-23 Windsor Rd, Kellyville NSW 2155, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.71278368,150.9591265
+50,BP Revesby,"Milperra Rd AUS AU, The River Rd, Revesby NSW 2212, Australia",Open 24/7,bp pulse,1,2,75 kW,1,1,0,-33.93878937,151.0177765
+51,bp Penrith ,"2213 Castlereagh Rd, Penrith NSW 2750, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.74356323,150.6923182
+52,BP Rosehill,"113 Hassall St, Rosehill NSW 2142, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.81967545,151.0212402
+53,BP Seven Hills,"26 Abbott Rd, Seven Hills NSW 2147, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.7671723,150.9518457
+54,BP Balgowlah,"485 Sydney Rd, Balgowlah NSW 2093, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.79550801,151.2558549
+55,BP Tumbi Umbi,"Cnr Mingara Dr & Wyong Rd, Tumbi Umbi NSW 2261",Open 24/7,bp pulse,1,2,75 kW,1,1,0,-33.36288685,151.4445016
+56,BP Sydenham,"339 Princes Hwy, St Peters NSW 2044, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.91611507,151.1728932
+57,BP Asquith,"462 Pacific Hwy, Asquith NSW 2077, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.68999427,151.1061347
+58,BP Fairy Meadow,"Northgate Ctr, 224/224 Princes Hwy, Fairy Meadow NSW 2519, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-34.40330246,150.8914438
+59,BP Heatherbrae,"269 Pacific Hwy, Heatherbrae NSW 2324, Australia",Open 24/7,bp pulse,1,2,75 kW,1,1,0,-32.78334894,151.7370322
+60,BP Eastern Creek,"1 Wallgrove Rd, Eastern Creek NSW 2766, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.81100481,150.8496208
+61,BP Wiley Park,"24-42 King Georges Rd, Wiley Park NSW 2195, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.91957312,151.0669475
+62,bp Nambucca Heads,"5 Boggy Creek Rd, Valla NSW 2448, Australia",Open 24/7,bp pulse,1,2,75 kW,1,1,0,-30.62671183,152.9724759
+63,bp Coffs Harbour,"136 Pacific Hwy, Coffs Harbour NSW 2450, Australia",,bp pulse,1,2,75 kW,0,2,0,-30.291502,153.118159
+64,BP Ballina Travel Centre,"AUS AU, 41 Bruxner Wy, West Ballina NSW 2478, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-28.86186233,153.5167396
+65,bp Mosman,"42 Avenue Rd, Mosman NSW 2088, Australia",Mon-Sat: 6:00 AM - 10:00 PM Sun: 7:30 AM - 10:00 PM,bp pulse,1,2,75 kW,0,2,0,-33.83198283,151.2373957
+66,bp Naremburn,"169 Willoughby Rd, Naremburn NSW 2065, Australia",Open 24/7,bp pulse,1,2,75 kW,0,2,0,-33.820156,151.201349
+67,bp Beresfield,"Lot 201 John Renshaw Drive Lot 201, Beresfield NSW 2322, Australia",,bp pulse,1,2,75 kW,1,1,0,-32.81183617,151.6395096
+68,Dan Murphy's Batemans Bay,"51/53A Orient St, Batemans Bay NSW 2536, Australia",,Evie Networks,1,2,50 kW,0,2,0,-35.709928,150.177723
+69,Village Centre Batemans Bay ,"1 Perry St, Batemans Bay NSW 2536, Australia",Open 24/7,Evie Networks,2,4,75 kW,0,4,0,-35.706983,150.176006
+70,Ampol Tarcutta,"32 Sydney St, Tarcutta NSW 2652, Australia",Open 24/7,Evie Networks,1,4,184 - 350 kW,2,2,0,-35.27714453,147.7360793
+71,Murrumbateman Country Inn,"2 Hercules St, Murrumbateman NSW 2582, Australia",Open 24/7,Evie Networks,1,2,50 kW,1,1,0,-34.96936,149.03
+72,Sutton Forest West,"13125 Hume Hwy, Sutton Forest NSW 2577, Australia",Open 24/7,Evie Networks,2,8,184 - 350 kW,4,4,0,-34.607216,150.225169
+73,Lawson Car Park,"4-6 New St, Lawson NSW 2783, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.720695,150.429727
+74,Taree South Service Centre,"201 Manning River Dr, Glenthorne NSW 2430, Australia",Open 24/7,Evie Networks,1,4,184 - 350 kW,2,2,0,-31.94335335,152.4706623
+75,Coles Underground Parking,"227 Railway Terrace, Schofields NSW 2762, Australia",Mon - Sat 6am - 12am Sun 7am - 10pm,Evie Networks,2,4,50 kW,2,2,0,-33.705677,150.876075
+76,Dapto Mall,"Moombara St, Dapto NSW 2530, Australia",5:50am - 10pm,Evie Networks,2,4,50 kW,2,2,0,-34.494604,150.795725
+77,Ampol Cameron Park,"119 Stenhouse Dr, Cameron Park NSW 2285, Australia",,Evie Networks,1,4,184 - 350 kW,2,2,0,-32.89664822,151.5971676
+78,HomeCo Belrose,"4-6 Niangala Close, Belrose NSW 2085, Australia","Mon - Wed, Fri - Sat 7am - 6pm; Thu 7am - 9pm; Sun 8am- 7pm",Evie Networks,2,4,50 kW,2,2,0,-33.703313,151.213158
+79,Hungry Jack's Cabramatta,"401 Cabramatta Rd W, Cabramatta NSW 2166, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.898778,150.919791
+80,Casula Mall,"1 Ingham Dr, Casula NSW 2170, Australia",,Evie Networks,2,4,50 kW,2,2,0,-33.948829,150.90027
+81,HomeCo Castle Hill,"18 Victoria Avenue, Castle Hill NSW 2154, Australia",Mon/Tue/Wed/Fri 9am - 6pm Thu 9am - 8:30pm Sat 9am - 5:30pm Sun 10am - 5:30pm,Evie Networks,2,4,50 kW,2,2,0,-33.727803,150.976049
+82,Ampol Woolworths MetroGo Seven Hills,"38 Abbott Rd, Seven Hills 2147, Australia",Open 24/7,Evie Networks,1,12,184 - 350 kW,6,6,0,-33.767133,150.95486
+83,Red Rooster Guildford,"322 Woodville Road Guildford, NSW 2161, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.8521028,150.9955836
+84,Shell Jamisontown,"221 Wolseley St, Jamisontown NSW 2750, Australia",Open 24/7,Evie Networks,1,4,184 - 350 kW,2,2,0,-33.770295,150.673823
+85,Allambie Grove Business Park,"25 Frenchs Forest Rd E Frenchs Forest, NSW 2086",,Evie Networks,2,4,150 kW,0,4,0,-33.75133669,151.2434692
+86,Leichhardt Marketplace,"128 Flood Street, Leichhardt NSW 2040, Australia",6:30 AM - 10:30 PM,Evie Networks,3,6,50 - 75 kW,1,5,0,-33.88518,151.148629
+87,Eastgate Bondi Junction,"71/91 Spring St, Bondi Junction 2022, Australia",Monday - Sunday 05:00 - 23:30,Evie Networks,2,4,50 kW,2,2,0,-33.892645,151.248167
+88,Royal Randwick,"73 Belmore Road, Randwick NSW 2031, Australia",6:00am - 10:00pm,Evie Networks,2,4,50 kW,2,2,0,-33.915171,151.241129
+89,Ashfield Mall,"260A Liverpool Road, Ashfield, NSW 2131",6am - 11pm,Evie Networks,2,4,50 kW,2,2,0,-33.889564,151.123599
+90,Civic Plaza 88 Christie,"88 Christie St, St Leonards NSW 2065, Australia",6am - 1am,Evie Networks,2,4,50 kW,2,2,0,-33.82378797,151.1951941
+91,HomeCo Bankstown,"9-49 Chapel Road, Bankstown NSW 2200, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.931975,151.030127
+92,BP Ashfield,"586A Parramatta Rd, Croydon NSW 2132, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.874062,151.126746
+93,Queen Street Carpark (Dorhauer Lane),"Dorhauer Lane, Woollahra Sydney, NSW 2025, Australia",,Evie Networks,1,2,75 kW,0,2,0,-33.88847211,151.2375874
+94,Ikea Tempe ,"634-726 Princes Hwy, Tempe NSW 2044",Weekdays: 8:00 AM - 10:00 PM Weekends: 8:00 AM - 8:00 PM,Evie Networks,2,4,150 kW,0,4,0,-33.92288364,151.1652088
+95,Northbridge Plaza,9 Eastern Valley Way (or 16 Harden Avenue) Northbridge NSW,Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.809326,151.208848
+96,Wollongong Central - Regent St Entrance,"Regent St, Wollongong NSW 2500, Australia",6:00AM - 12:00AM,Evie Networks,2,4,50 kW,2,2,0,-34.423975,150.892316
+97,Marrickville Metro Shopping Centre,"34 Victoria Rd, Marrickville NSW 2204, Australia",,Evie Networks,2,4,50 kW,2,2,0,-33.907982,151.170899
+98,The Canopy Lane Cove,"2 Rosenthal Ave, Lane Cove NSW 2066, Australia",6AM to 1AM,Evie Networks,2,4,50 kW,2,2,0,-33.813936,151.169298
+99,Caddens Corner,"82a O'Connell St, Kingswood NSW 2747, Australia",Open 24/7,Evie Networks,1,2,50 kW,1,1,0,-33.7693,150.735413
+100,Raglan St West Car Park,"188 Raglan St, Mosman NSW 2088, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.830986,151.243556
+101,Mosman Civic,"6 Myahgah Rd, Mosman NSW 2088, Australia",Open 24/7,Evie Networks,1,2,50 kW,1,1,0,-33.825551,151.241426
+102,BP Caringbah,"Captain Cook Dr and, Cawarra Rd, Caringbah NSW 2229, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-34.03282054,151.1248971
+103,Dan Murphy's Swansea,"36 Josephson St, Swansea NSW 2281, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.088721,151.637587
+104,Macquarie Centre (2),"105Ã107 Waterloo Rd, Macquarie Park NSW 2113, Australia",Open 24/7,Evie Networks,2,4,50 kW,2,2,0,-33.776893,151.122247
+105,Ampol Foodary Macksville,"24 Cooper St, Macksville NSW 2447, Australia",Open 24/7,Evie Networks,1,4,184 - 350 kW,2,2,0,-30.7102492,152.9197659
+106,Shell Tyndale,"2848 Big River Way, Tyndale NSW 2460, Australia",Open 24/7,Evie Networks,1,4,184 - 350 kW,2,2,0,-29.561181,153.149407
+107,HomeCo Highlands,"205 Old Hume Hwy, Mittagong NSW 2575, Australia",Open 24/7,Evie Networks,2,4,150 kW,0,4,0,-34.44673164,150.4370159
+108,Marketfair Campbelltown,"4 Tindall St, Campbelltown NSW 2560, Australia",Open 24/7,Evie Networks,2,4,60 - 150 kW,1,3,0,-34.07204458,150.8051165
+109,Kogarah Town Centre,"Kogarah Town Centre, 1-9 Railway Parade, Kogarah NSW 2217, Australia",7:00 AM - 10:00 PM,Evie Networks,2,4,60 - 150 kW,1,3,0,-33.96168115,151.1325903
+110,Bakehouse Quarter Carpark,"3 George St, North Strathfield NSW 2137, Australia",Open 24/7,Evie Networks,3,6,62 - 75 kW,1,5,0,-33.86390159,151.0894518
+111,HomeCo. Prestons ,"1985 Camden Valley Way, Prestons NSW 2170, Australia",Open 24/7,Evie Networks,2,4,150 kW,0,4,0,-33.95227277,150.8557289
+112,HomeCo. Warners Bay,"240 Hillsborough Rd, Warners Bay NSW 2282, Australia",Open 24/7,Evie Networks,2,4,60 - 150 kW,1,3,0,-32.96354505,151.6617414
+113,Sydney Motorsport Park (1),"Sydney Motorsport Park, Ferrers Rd, Eastern Creek NSW 2766, Australia",,Evie Networks,2,4,150 kW,0,4,0,-33.80443343,150.8703586
+114,Seven Hills Plaza,"224 Prospect Hwy, Seven Hills NSW 2147, Australia",Open 24/7,Evie Networks,2,4,150 kW,0,4,0,-33.77578997,150.9330864
+115,Hornsby Dural Street Council Carpark,"1-3 Dural Street, Hornsby NSW 2077, Australia",Open 24/7,Evie Networks,2,4,50 kW,1,3,0,-33.70276181,151.0964792
+116,10 Elizabeth St Carpark,"10 Elizabeth St, Bathurst NSW 2795, Australia",Open 24/7,Evie Networks,2,4,60 - 150 kW,1,3,0,-33.41415869,149.5834276
+117,Dee Why Marketplace (2),"Shop 4/27-33 Oaks Ave, Dee Why NSW 2099, Australia",7:00 AM - 10:30 PM,Evie Networks,2,4,150 kW,0,4,0,-33.75442135,151.2873331
+118,Wilcannia Hospital,"1 - 7 Ross St, Wilcannia NSW 2836, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-31.557629,143.386007
+119,Broken Hill,"Kintore Headframe Car Park, 51 Bromide St, Broken Hill, NSW 2880, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-31.959618,141.45957
+120,Moppett St Car Park,"406 Moppett St, Hay NSW 2711, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.508903,144.842785
+121,Balranald Discovery Centre,"85 Market St, Balranald NSW 2715, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.639541,143.564708
+122,Moama Bowling Club,"7 Blair St, Moama NSW 2731, Australia","Sun - Thu 10am - 1am, Fri - Sat 10am - 2am",Chargebay,2,4,50 kW,2,2,0,-36.113509,144.757766
+123,Kiewa St Car Park Rooftop,"441 Kiewa St, Albury NSW 2640, Australia",6:00 AM - 10:00 PM,NRMA,1,2,50 kW,1,1,0,-36.083744,146.914742
+124,Church St Car Park,"81 Gipps St, Bega NSW 2550, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-36.672876,149.843349
+125,Submarine Park,"7 Prospect St, Holbrook NSW 2644, Australia",10:00 AM - 4:00 PM,NRMA,1,2,50 kW,1,1,0,-35.717574,147.317769
+126,Snowy River Ave Car Park,"Corner of Snowy River Avenue and, Kalkite St, Jindabyne NSW 2627",Open 24/7,NRMA,2,4,50 kW,2,2,0,-36.415952,148.619803
+127,Batemans Bay Regional Arts Aquatic & Leisure Centre,"12 Vesper St, Batemans Bay NSW 2536, Australia",Open 24/7,NRMA,2,4,75 kW,2,2,0,-35.709671,150.173821
+128,Batemans Bay Beach Road,"2A Beach Rd, Batemans Bay NSW 2536, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-35.708511,150.175387
+129,Cobar,"3 Broomfield St, Cobar NSW 2835, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-31.498839,145.837612
+130,Dandaloo St Parking Lot,"18 Dandaloo St, Nyngan NSW 2825, Australia",Open 24/7,NRMA,2,4,75 kW,2,2,0,-31.564331,147.197013
+131,Neilly St Car Park,"26 Neilly St, Walgett NSW 2832, Australia",Open 24/7,NRMA,1,2,75 kW,1,1,0,-30.020699,148.117705
+132,Coonabarabran Visitors Centre,"Coonabarabran Coach Stop, Coonabarabran NSW 2357, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-31.278606,149.279192
+133,Skillman's Lane Car Park,"Skillman's Lane, Coonamble NSW 2829, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-30.95278,148.387913
+134,Mitchell St Bourke,"15c Mitchell St, Bourke NSW 2840, Australia",Open 24/7,NRMA,2,4,75 kW,2,2,0,-30.088397,145.935014
+135,Brewarrina Visitor Information & Exhibition Centre,"50 Bathurst St, Brewarrina NSW 2839, Australia",Open 24/7,NRMA,2,4,75 kW,2,2,0,-29.960719,146.857749
+136,Narrandera Park,"31 Twynam St, Narrandera NSW 2700, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.746497,146.550076
+137,Parkes Swimming Pool,"27 Dalton St, Parkes NSW 2870, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-33.1372177,148.1726205
+138,Club Mudgee Car Park,"99 Mortimer St, Mudgee NSW 2850, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-32.59372361,149.5862369
+139,Cowra Art Gallery,"77 Darling St, Cowra NSW 2794, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-33.834112,148.694404
+140,Shire St Parking,"13-15 Shire St, West Wyalong NSW 2671, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-33.923735,147.203554
+141,Temora Shire Council ,"Car park, Little Hoskins St, Temora NSW 2666",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.446266,147.534441
+142,Luke Park,"33 Powell St, Jerilderie NSW 2716, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-35.35488488,145.7250808
+143,Lovell St Car Park,"88 Lovell St, Young NSW 2594, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.311716,148.295039
+144,Orange Civic Centre Car Park,"151A Byng St, Orange NSW 2800, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-33.281443,149.102781
+145,Jugiong Playground & Swimming Pool,"319 Riverside Dr, Jugiong NSW 2726, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.82345,148.325444
+146,Middy's Wagga Wagga East ,"176 Hammond Ave, East Wagga Wagga NSW 2650, Australia",Weekdays: 7am - 5pm Saturdays: 8am - 12pm,Everty,1,2,25kW,1,1,0,-35.1237268,147.398997
+147,Wagga Wagga Cross St Car Park,"8/24 Cross St, Wagga Wagga, NSW 2650",,NRMA,1,2,50 kW,1,1,0,-35.108358,147.37355
+148,Yass Banjo Paterson Park,"81 Meehan St, Yass NSW 2582, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.841228,148.912485
+149,Western Plains Cultural Centre,"76 Wingewarra St, Dubbo NSW 2830, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-32.2494,148.609389
+150,Bathurst Visitor Information Centre,"1 Kendall Ave, Bathurst NSW 2795, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-33.419102,149.586752
+151,Kelly St Car Park,"116 Liverpool St, Scone NSW 2337, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-32.050429,150.866672
+152,Hunter Valley Gardens Car Park,"Hunter Valley Gardens carpark, 2090 Broke Rd, Pokolbin NSW 2320, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-32.773429,151.298271
+153,Mittagong RSL Car Park,"9 Bessemer St, Mittagong NSW 2575, Australia",Open 24/7,NRMA,3,6,50 - 150 kW,1,5,0,-34.450088,150.442458
+154,Berry Bowling Club,"140 Queen St, Berry NSW 2535, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.775594,150.701087
+155,Lake Macquarie Visitor Information Centre,"228 Pacific Hwy, Swansea NSW 2281, Australia",Open 24/7,Everty,1,2,25 kW,1,1,0,-33.091852,151.637364
+156,Lithgow Workies Club,"3-7 Tank St, Lithgow NSW 2790, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-33.478006,150.161124
+157,Nabiac Park,"35 Nabiac Street, Nabiac NSW 2312, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-32.099071,152.381574
+158,Walton Lane Car Park,"5 Walton Lane, Picton NSW 2571, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-34.168301,150.611002
+159,Toronto Commercial Centre Carpark,"7 Pemell St, Toronto NSW 2283, Australia",,Exploren,1,2,40 kW,0,2,0,-33.01436532,151.5957632
+160,Wallsend Car Park,"76 Cowper St, Wallsend NSW 2287, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-32.902721,151.669767
+161,Sungrow Power Australia Warehouse,"91 Victoria St, Smithfield NSW 2164, Australia",9am - 5:30,Everty,1,1,30 kW,0,1,0,-33.8511379,150.934316
+162,Darley St Parking,"10 Darley St, Forestville NSW 2087, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.762097,151.214184
+163,Treacy St Parking,"Treacy St, Hurstville NSW 2220, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.967847,151.106052
+164,Dowling St Parking,"30 Dowling Street, Freshwater",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.778944,151.283883
+165,Richmond Road,"19 Richmond Rd, Homebush West NSW 2140, Homebush West 2140",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.866056,151.064444
+166,Sydney Olympic Park,"9 Murray Rose Ave, Sydney Olympic Park NSW 2127, Australia",Open 24/7,NRMA,1,2,50 kW,0,2,0,-33.84603863,151.0698039
+167,Winbourne Rd Parking,"87 Winbourne Rd, Brookvale NSW 2100, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.7620831,151.2725704
+168,"Oaks Ave, Dee Why","4-16 Oaks Ave, Dee Why NSW 2099, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.753704,151.287004
+169,Beecroft Village Plaza,"107 Beecroft Rd, Beecroft NSW 2119",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.75046555,151.0650469
+170,Stanley St Parking,"28 Stanley St, Peakhurst NSW 2210, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.962184,151.063572
+171,133 Liverpool Road,"133 Liverpool Road, Burwood NSW 2134, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.887273,151.099333
+172,"Brighton St, Croydon Park","110 Brighton St, Croydon Park NSW 2133, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.894755,151.10969
+173,Cook St Parking,"22 Cook st, Mortdale NSW 2223, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.970228,151.080159
+174,Letitia St & Frederick St Parking,"20 Letitia St, Oatley NSW 2223, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.981597,151.081572
+175,Goodwood St Parking,"110 Anzac Parade, Kensington NSW 2033, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.907121,151.224119
+176,Anzac Parade Car Park,"827 Anzac Parade, Maroubra NSW 2035, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.943551,151.239711
+177,Morgan St Parking,"Morgan St, Beverly Hills NSW 2209, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.949251,151.081229
+178,Broadarrow Rd Parking,"42 Broad Arrow Rd, Narwee NSW 2209, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.948425,151.071068
+179,Stewart St East Car Park,"17 Stewart St, Wollongong NSW 2500, Australia",Open 24/7,NRMA,2,4,75 - 175 kW,2,2,0,-34.428268,150.90015
+180,Spencer St & Regatta Rd Parking,"2A Regatta Rd, Five Dock NSW 2046, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.869534,151.116173
+181,Beauchamp Rd Parking,"151 Beauchamp Rd, Matraville NSW, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.95632342,151.2265971
+182,JOLT Perry St ,"550 Bunnerong Rd, Matraville NSW 2036, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.96104423,151.2309394
+183,Everton Park,"Everton Park, 26 Everton Rd, Strathfield NSW 2135, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.872106,151.095801
+184,Park Ave Parking,"30 Park Ave, Burwood NSW 2134, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.873878,151.10192
+185,Lagoon St Carpark,"9 Lagoon St, Narrabeen NSW 2101",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.7138449,151.2984042
+186,"Ocean St, Narrabeen","5/16 Ocean St, Narrabeen NSW 2101, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.71941463,151.2986382
+187,Bunnings Caringbah,"Koonya Cct, Caringbah NSW 2229, Australia",6am - 9pm,Exploren,1,2,50 kW,1,1,0,-34.02815,151.121855
+188,Motor Traders' Association of New South Wales,"214 Parramatta Rd, Burwood NSW 2134, Australia",Open 24/7,Everty,2,2,60 kW,0,2,0,-33.86973363,151.1105925
+189,Dan Murphy's Burwood,"312 Parramatta Rd, Burwood NSW 2134, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.86937549,151.1077687
+190,Bungan Street,"5 Bungan St, Mona Vale NSW 2103",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.676139,151.303111
+191,Mona Vale Library Car Park,"1 Park St, Mona Vale NSW 2103, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.67606,151.303827
+192,JOLT Gardeners Road,"904 Gardeners Rd, Mascot NSW 2020, Australia",6am to 2am.,JOLT,2,4,25 kW,2,2,0,-33.9206552,151.1913821
+193,Lancaster Motor Group- open now (station #1283) ,1 Waddell's Lane Singleton NSW 2330,Monday - Friday 7:30am - 5:30pm Saturday- 9am - 4pm Sunday - Closed,Everty,1,2,100 kW,0,2,0,-32.57696806,151.1841952
+194,Tenterfield Visitors Information Centre,"157 Rouse Street, Tenterfield",Open 24/7,NRMA,1,2,50 kW,1,1,0,-29.057341,152.01889
+195,Little Barber St Parking Lot,"73 Little Barber St, Gunnedah NSW 2380, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-30.978145,150.250987
+196,Evans St Parking,"Car park, 51 Evans St (Victoria Park), Inverell NSW 2360",Open 24/7,NRMA,1,2,75 kW,1,1,0,-29.774714,151.114696
+197,Glen Innes Town Hall,"265 Grey St, Glen Innes NSW 2370, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-29.738463,151.736308
+198,Armidale Visitors Centre,"82 Marsh St, Armidale NSW 2350, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-30.511924,151.669672
+199,Grafton Public Library,"126-144 Pound St, Grafton NSW 2460, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-29.68811,152.933421
+200,Little Walker St Parking,"1 Little Walker St, Casino NSW 2470, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-28.865732,153.048478
+201,The Farm Byron Bay,"11 Ewingsdale Rd, Ewingsdale NSW 2481, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-28.636128,153.55346
+202,Hands of Fame Park,"2 Kable Ave, Tamworth NSW 2340, Australia",Open 24/7,NRMA,1,2,50 kW,1,1,0,-31.090437,150.927465
+203,Sovereign Place,"John Oxley Dr Before Chancellor Dr, Thrumster NSW 2444, Australia",Open 24/7,NRMA,2,4,50 kW,2,2,0,-31.457966,152.827345
+204,Braidwood Servicemens Club & Golf Course,"15 Victory St, Braidwood NSW 2622",Open 24/7,NRMA,2,4,50 kW,2,2,0,-35.4427778,149.7913735
+205,Cronulla Station Parking,"2A Cronulla St, Cronulla NSW 2230, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-34.05770708,151.1519568
+206,1 Gregory Hills Drive Parking,"Cnr Gregory Hills Dr & Holborn Cct, Gledswood Hills NSW, Australia",Open 24/7,Everty,2,4,120 kW,0,4,0,-34.02032806,150.7634143
+207,Innovation Campus - SBRC Building 237,"160 Innovation Way, North Wollongong NSW 2500, Australia",Open 24/7,Non - Networked,1,2,180 kW,0,2,0,-34.40009045,150.8996111
+208,12C Oatley Parade Parking,"12C Oatley Parade, Oatley NSW 2223, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.98151618,151.0794364
+209,Crossroads Hotel (2),"2260 Camden Valley Wy, Casula NSW 2170, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.95822583,150.8865017
+210,Crossroads Hotel (1),"2260 Camden Valley Wy, Casula NSW 2170, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.95798137,150.8864872
+211,NRMA - Gilgandra (Museum and Historical Society),6 Castlereagh St Gilgandra NSW 2827,,NRMA,2,4,75 kW,2,2,0,-31.7223908,148.6571378
+212,Barrenjoey House carpark,"Palm Beach, Palm Beach NSW 2108, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.59705164,151.3200112
+213,7 Irvine Place Building,"7 Irvine Place, Bella Vista NSW 2153, Australia","7am Ã 11pm, 7 days per week.",Everty,2,4,140 kW,0,4,0,-33.73929068,150.9471975
+214,Rouse Hill Village Centre,"40 Panmure St, Rouse Hill NSW 2155, Australia",6:00pm - 11:00pm,JOLT,1,2,25 kW,1,1,0,-33.68326776,150.9165514
+215,JOLT The Ettamogah,"15 Merriville Rd, Kellyville Ridge NSW 2155, Australia",Open 24/7,JOLT,2,4,25 kW,2,2,0,-33.70049719,150.928112
+216,JOLT Glendenning,"670 Richmond Rd, Glendenning NSW 2761, Australia",Open 24/7,JOLT,2,4,25 kW,2,2,0,-33.73550468,150.8513475
+217,Roseville Station,"1 Clanville Rd, Roseville NSW 2069, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.78289238,151.1752149
+218,Penrith Station Kiss and Ride,"31 Jane Street, Penrith NSW 2750, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.75030592,150.6940727
+219,Berowra Station,"9/993 Pacific Hwy, Berowra NSW 2081, Australia",Open 24/7,JOLT,1,2,25 kW,1,1,0,-33.62387549,151.1518352
+220,Big 4 Holiday Park,"282 O'Keefes Ln, Palmers Island NSW 2463, Australia",,Non - Networked,1,1,kW,1,0,0,-29.39484846,153.3121037
+221,Cabarita Beach,"47 Cabarita Beach Road, Cabarita Beach NSW 2488",Open 24/7,NRMA,2,4,100 - 350 kW,1,3,0,-28.33169054,153.5641405
+222,Narooma Supercharger,"185 Princes Highway, Narooma, Australia, ",Open 24/7,Tesla Supercharge,4,4,120 kW,0,4,0,-36.223136,150.128346
+223,Centennial Plaza,"97 Commissioner St, Cooma NSW 2630, Australia",Open 24/7,Tesla Supercharge,4,8,120 kW,0,4,4,-36.235522,149.126794
+224,Goulburn Visitor Information Centre,"201 Sloane St, Goulburn NSW 2580, Australia",Open 24/7,Tesla Supercharge,8,16,120 kW,0,8,8,-34.755597,149.720984
+225,Yass ,"68 Lead St, Yass NSW 2582, Australia",Open 24/7,Tesla Supercharge,12,12,250 kW,0,12,0,-34.84359869,148.9139874
+226,Dubbo Supercharger,"76 Wingewarra Street, Dubbo, Australia, 2830",Open 24/7,Tesla Supercharge,4,8,120 kW,0,4,4,-32.24995,148.609182
+227,Oliver's Gundagai (2),"31 Annie Pyers Dr, Gundagai NSW 2722, Australia",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-35.002013,148.109889
+228,Bathurst Visitor Information Centre,"1 Kendall Ave, Bathurst NSW 2795, Australia",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-33.41901,149.586756
+229,Hollydene Estate Wines,"3483 Golden Hwy, Jerrys Plains NSW 2330, Australia",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-32.447359,150.83232
+230,The Silos Estate,"640 Princes Hwy, Jaspers Brush NSW 2535, Australia",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-34.808254,150.636711
+231,Hope St Parking Lot,"126 Hope St, Blaxland NSW 2774, Australia",Open 24/7,Tesla Supercharge,6,6,250 kW,0,6,0,-33.7451971,150.6103969
+232,HomeCo. Tuggerah Super Centre,"Bryant Drive & Wyong Road, Tuggerah NSW 2259, Australia",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-33.310237,151.420585
+233,South Village,"580 Princes Highway, Kirrawee, NSW, Australia, 2232",6am - midnight,Tesla Supercharge,6,6,250 kW,0,6,0,-34.033791,151.073837
+234,Figtree Grove Shopping Centre,"Figtree Grove Shopping Centre, Figtree Grove Carpark, Figtree NSW 2525, Australia",Open 24/7,Tesla Supercharge,6,6,250 kW,0,6,0,-34.43779838,150.8634488
+235,Campbelltown Catholic Club,"22 Camden Rd, Campbelltown NSW 2560",Open 24/7,Tesla Supercharge,12,12,250 kW,0,12,0,-34.07153315,150.8073678
+236,Broadway Shopping Centre,"1 Bay St, Glebe NSW 2037, Australia",Open 24/7,Tesla Supercharge,8,16,120 kW,0,8,8,-33.882995,151.194332
+237,Country Comfort Motto Farm Motel - Newcastle Airport,"2285 Pacific Hwy, Heatherbrae NSW 2324, Australia",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-32.78781734,151.727705
+238,Heatherbrae's Pies Exeter,"24 Sallys Corner Rd, Exeter NSW 2579, Australia",Open 24/7,Tesla Supercharge,6,12,250 kW,0,6,6,-34.60926271,150.2299553
+239,Macquarie Centre,"55 Talavera Rd, Macquarie Park NSW 2113, Australia",Open 24/7,Tesla Supercharge,10,20,120 - 150 kW,0,10,10,-33.776673,151.123048
+240,Harwood Hotel,"56 Morpeth St, Harwood NSW 2465, Australia",Open 24/7,Tesla Supercharge,4,8,120 kW,0,4,4,-29.4269989,153.2391603
+241,Macadamia Castle,"419 Hinterland Way, Knockrow NSW 2479, Australia",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-28.749539,153.534722
+242,Park Beach Plaza,"253 Pacific Highway, Coffs Harbour, NSW Australia, 2450",Open 24/7,Tesla Supercharge,6,12,120 kW,0,6,6,-30.281439,153.131666
+243,Cassegrain Winery,"10 Winery Drive, Port Macquarie, Australia, 2444",,Tesla Supercharge,6,12,120 kW,0,6,6,-31.4361,152.823582
+244,West Tamworth League Club,"25 Park St, West Tamworth NSW 2340, Australia",Open 24/7,Tesla Supercharge,4,8,120 kW,0,4,4,-31.101649,150.917126
+245,Coles Tenterfield,"13 Crown St, Tenterfield NSW 2372, Australia",Open 24/7,Tesla Supercharge,4,4,250 kW,0,4,0,-29.05606654,152.0176587
+246,Quality Hotel Rules Club Wagga (2),"188 Fernleigh Rd, Wagga Wagga NSW 2650, Australia",Open 24/7,Tesla Supercharge,6,6,250 kW,0,6,0,-35.13100517,147.3397758
+247,Holbrook,"66 Young St, Holbrook NSW 2644, Australia",Open 24/7,Tesla Supercharge,9,9,250 kW,0,9,0,-35.72274451,147.317551
+248,Commercial Club Albury,"576 Stanley St, Albury NSW 2640, Australia",Open 24/7,Tesla Supercharge,16,16,250 kW,0,16,0,-36.07929418,146.9136097
+249,Tramsheds Harold Park (2),"1 Dalgal Wy, Forest Lodge NSW 2037, Australia",6am - 11pm for carpark,Tesla Supercharge,4,4,250 kW,0,4,0,-33.87635779,151.177867
+250,Tweed Mall Shopping Centre,"1 Wharf Street, Tweed Heads NSW 2485, Australia",6:00 AM - 11:00 PM,Tesla Supercharge,6,6,250 kW,0,6,0,-28.17379051,153.5446309
+251,The Big Banana Fun Park,"26 Aspect Dr, Coffs Harbour NSW 2450, Australia",Open 24/7,Tesla Supercharge,2,2,250 kW,0,2,0,-30.27522635,153.1319391
+252,Sovereign Place Town Centre (2),"15 Chancellors Dr, Thrumster NSW 2444, Australia",Open 24/7,Tesla Supercharge,12,12,250 kW,0,12,0,-31.45774801,152.8268794

@@ -1,0 +1,253 @@
+station_id,station_name,num_of_charging_stations,lat,long
+1,No 2 Sportsground Park,1,-32.930158,151.7606332
+2,Albury Waste Management Centre,1,-36.028496,146.8958713
+3,NRMA - Ballina,2,-28.85761,153.5616904
+4,NRMA - Coffs Harbour,1,-30.317745,153.0898181
+5,NRMA - Sydney,2,-33.905521,151.2128
+6,NRMA - Gundagai,2,-35.002352,148.1102642
+7,NRMA - Port Macquarie,2,-31.463941,152.8219487
+8,NRMA - Karuah,2,-32.65385,151.9625799
+9,NRMA - Cooma,2,-36.219283,149.133225
+10,NRMA - Goulburn,2,-34.747962,149.7496447
+11,NRMA - Shell Cove,1,-34.588599,150.8661125
+12,Audi Centre Sydney,1,-33.907015,151.2130187
+13,Mirvac South Eveleigh,2,-33.895581,151.1958121
+14,Berowra Tennis Centre,1,-33.621379,151.1494479
+15,Byron Bay Library,1,-28.643224,153.615692
+16,Lismore City Council,1,-28.806548,153.2786369
+17,The Heffron Centre,4,-33.951003,151.2320639
+18,ENGIE - Warriewood Square,1,-33.695602,151.2962879
+19,ENGIE - Chatswood Chase,1,-33.794005,151.1865994
+20,ENGIE - Roselands Shopping Centre,1,-33.935008,151.069206
+21,ENGIE - Lake Haven Centre,1,-33.240884,151.5036157
+22,Soldiers Point Marina,1,-32.701388,152.0626458
+23,ENGIE - Greenway Wetherill Park,1,-33.850403,150.8984016
+24,ENGIE - DFO Homebush,1,-33.855193,151.0771984
+25,Pennant Hills Toyota,1,-33.736621,151.0743388
+26,KFC - Goulburn South,1,-34.771921,149.6924162
+27,Woolworths North Parramatta,1,-33.792866,150.9995553
+28,Genesis Health Care,1,-34.071284,150.8061644
+29,Ampol Foodary St Ives,1,-33.7306437,151.1571089
+30,Ampol Foodary Gosford West (Eastbound),1,-33.427468,151.321293
+31,Ampol Foodary Marsden Park,1,-33.71606446,150.8443544
+32,Ampol Foodary Northmead,1,-33.787777,150.994685
+33,Ampol Foodary Edmondson Park ,1,-33.95554925,150.865275
+34,Ampol Foodary Hazelbrook,1,-33.72104211,150.452198
+35,Ampol Foodary Waitara,1,-33.710683,151.102535
+36,Ampol Foodary Brownsville ,1,-34.48575434,150.8064239
+37,Ampol Lakemba ,1,-33.91158022,151.0733967
+38,Ampol Foodary Wollongong North,1,-34.41516516,150.8931358
+39,Ampol Foodary Alexandria,1,-33.90214,151.20003
+40,Ampol Foodary Pheasants Nest Southbound,3,-34.28254012,150.6397707
+41,Ampol Foodary Pheasants Nest Northbound ,3,-34.28321378,150.6364411
+42,Ampol Foodary Penrith,1,-33.74299278,150.6929624
+43,Ampol Foodary Werrington,1,-33.74597888,150.7407894
+44,Ampol Foodary Glenbrook,1,-33.76539099,150.6214957
+45,BP Marulan Northbound,1,-34.719342,149.995591
+46,BP Marulan Southbound,1,-34.718458,150.000639
+47,BP Ingleburn,2,-33.98873226,150.8592698
+48,BP Macarthur,1,-34.05317082,150.8236398
+49,BP Pulse Kellyville ,1,-33.71278368,150.9591265
+50,BP Revesby,1,-33.93878937,151.0177765
+51,bp Penrith ,1,-33.74356323,150.6923182
+52,BP Rosehill,1,-33.81967545,151.0212402
+53,BP Seven Hills,1,-33.7671723,150.9518457
+54,BP Balgowlah,1,-33.79550801,151.2558549
+55,BP Tumbi Umbi,1,-33.36288685,151.4445016
+56,BP Sydenham,1,-33.91611507,151.1728932
+57,BP Asquith,1,-33.68999427,151.1061347
+58,BP Fairy Meadow,1,-34.40330246,150.8914438
+59,BP Heatherbrae,1,-32.78334894,151.7370322
+60,BP Eastern Creek,1,-33.81100481,150.8496208
+61,BP Wiley Park,1,-33.91957312,151.0669475
+62,bp Nambucca Heads,1,-30.62671183,152.9724759
+63,bp Coffs Harbour,1,-30.291502,153.118159
+64,BP Ballina Travel Centre,1,-28.86186233,153.5167396
+65,bp Mosman,1,-33.83198283,151.2373957
+66,bp Naremburn,1,-33.820156,151.201349
+67,bp Beresfield,1,-32.81183617,151.6395096
+68,Dan Murphy's Batemans Bay,1,-35.709928,150.177723
+69,Village Centre Batemans Bay ,2,-35.706983,150.176006
+70,Ampol Tarcutta,1,-35.27714453,147.7360793
+71,Murrumbateman Country Inn,1,-34.96936,149.03
+72,Sutton Forest West,2,-34.607216,150.225169
+73,Lawson Car Park,2,-33.720695,150.429727
+74,Taree South Service Centre,1,-31.94335335,152.4706623
+75,Coles Underground Parking,2,-33.705677,150.876075
+76,Dapto Mall,2,-34.494604,150.795725
+77,Ampol Cameron Park,1,-32.89664822,151.5971676
+78,HomeCo Belrose,2,-33.703313,151.213158
+79,Hungry Jack's Cabramatta,2,-33.898778,150.919791
+80,Casula Mall,2,-33.948829,150.90027
+81,HomeCo Castle Hill,2,-33.727803,150.976049
+82,Ampol Woolworths MetroGo Seven Hills,1,-33.767133,150.95486
+83,Red Rooster Guildford,2,-33.8521028,150.9955836
+84,Shell Jamisontown,1,-33.770295,150.673823
+85,Allambie Grove Business Park,2,-33.75133669,151.2434692
+86,Leichhardt Marketplace,3,-33.88518,151.148629
+87,Eastgate Bondi Junction,2,-33.892645,151.248167
+88,Royal Randwick,2,-33.915171,151.241129
+89,Ashfield Mall,2,-33.889564,151.123599
+90,Civic Plaza 88 Christie,2,-33.82378797,151.1951941
+91,HomeCo Bankstown,2,-33.931975,151.030127
+92,BP Ashfield,2,-33.874062,151.126746
+93,Queen Street Carpark (Dorhauer Lane),1,-33.88847211,151.2375874
+94,Ikea Tempe ,2,-33.92288364,151.1652088
+95,Northbridge Plaza,2,-33.809326,151.208848
+96,Wollongong Central - Regent St Entrance,2,-34.423975,150.892316
+97,Marrickville Metro Shopping Centre,2,-33.907982,151.170899
+98,The Canopy Lane Cove,2,-33.813936,151.169298
+99,Caddens Corner,1,-33.7693,150.735413
+100,Raglan St West Car Park,2,-33.830986,151.243556
+101,Mosman Civic,1,-33.825551,151.241426
+102,BP Caringbah,2,-34.03282054,151.1248971
+103,Dan Murphy's Swansea,2,-33.088721,151.637587
+104,Macquarie Centre (2),2,-33.776893,151.122247
+105,Ampol Foodary Macksville,1,-30.7102492,152.9197659
+106,Shell Tyndale,1,-29.561181,153.149407
+107,HomeCo Highlands,2,-34.44673164,150.4370159
+108,Marketfair Campbelltown,2,-34.07204458,150.8051165
+109,Kogarah Town Centre,2,-33.96168115,151.1325903
+110,Bakehouse Quarter Carpark,3,-33.86390159,151.0894518
+111,HomeCo. Prestons ,2,-33.95227277,150.8557289
+112,HomeCo. Warners Bay,2,-32.96354505,151.6617414
+113,Sydney Motorsport Park (1),2,-33.80443343,150.8703586
+114,Seven Hills Plaza,2,-33.77578997,150.9330864
+115,Hornsby Dural Street Council Carpark,2,-33.70276181,151.0964792
+116,10 Elizabeth St Carpark,2,-33.41415869,149.5834276
+117,Dee Why Marketplace (2),2,-33.75442135,151.2873331
+118,Wilcannia Hospital,2,-31.557629,143.386007
+119,Broken Hill,1,-31.959618,141.45957
+120,Moppett St Car Park,1,-34.508903,144.842785
+121,Balranald Discovery Centre,1,-34.639541,143.564708
+122,Moama Bowling Club,2,-36.113509,144.757766
+123,Kiewa St Car Park Rooftop,1,-36.083744,146.914742
+124,Church St Car Park,1,-36.672876,149.843349
+125,Submarine Park,1,-35.717574,147.317769
+126,Snowy River Ave Car Park,2,-36.415952,148.619803
+127,Batemans Bay Regional Arts Aquatic & Leisure Centre,2,-35.709671,150.173821
+128,Batemans Bay Beach Road,1,-35.708511,150.175387
+129,Cobar,1,-31.498839,145.837612
+130,Dandaloo St Parking Lot,2,-31.564331,147.197013
+131,Neilly St Car Park,1,-30.020699,148.117705
+132,Coonabarabran Visitors Centre,1,-31.278606,149.279192
+133,Skillman's Lane Car Park,2,-30.95278,148.387913
+134,Mitchell St Bourke,2,-30.088397,145.935014
+135,Brewarrina Visitor Information & Exhibition Centre,2,-29.960719,146.857749
+136,Narrandera Park,1,-34.746497,146.550076
+137,Parkes Swimming Pool,1,-33.1372177,148.1726205
+138,Club Mudgee Car Park,1,-32.59372361,149.5862369
+139,Cowra Art Gallery,1,-33.834112,148.694404
+140,Shire St Parking,1,-33.923735,147.203554
+141,Temora Shire Council ,1,-34.446266,147.534441
+142,Luke Park,1,-35.35488488,145.7250808
+143,Lovell St Car Park,1,-34.311716,148.295039
+144,Orange Civic Centre Car Park,1,-33.281443,149.102781
+145,Jugiong Playground & Swimming Pool,1,-34.82345,148.325444
+146,Middy's Wagga Wagga East ,1,-35.1237268,147.398997
+147,Wagga Wagga Cross St Car Park,1,-35.108358,147.37355
+148,Yass Banjo Paterson Park,1,-34.841228,148.912485
+149,Western Plains Cultural Centre,1,-32.2494,148.609389
+150,Bathurst Visitor Information Centre,1,-33.419102,149.586752
+151,Kelly St Car Park,1,-32.050429,150.866672
+152,Hunter Valley Gardens Car Park,2,-32.773429,151.298271
+153,Mittagong RSL Car Park,3,-34.450088,150.442458
+154,Berry Bowling Club,1,-34.775594,150.701087
+155,Lake Macquarie Visitor Information Centre,1,-33.091852,151.637364
+156,Lithgow Workies Club,2,-33.478006,150.161124
+157,Nabiac Park,1,-32.099071,152.381574
+158,Walton Lane Car Park,1,-34.168301,150.611002
+159,Toronto Commercial Centre Carpark,1,-33.01436532,151.5957632
+160,Wallsend Car Park,2,-32.902721,151.669767
+161,Sungrow Power Australia Warehouse,1,-33.8511379,150.934316
+162,Darley St Parking,1,-33.762097,151.214184
+163,Treacy St Parking,1,-33.967847,151.106052
+164,Dowling St Parking,1,-33.778944,151.283883
+165,Richmond Road,1,-33.866056,151.064444
+166,Sydney Olympic Park,1,-33.84603863,151.0698039
+167,Winbourne Rd Parking,1,-33.7620831,151.2725704
+168,"Oaks Ave, Dee Why",1,-33.753704,151.287004
+169,Beecroft Village Plaza,1,-33.75046555,151.0650469
+170,Stanley St Parking,1,-33.962184,151.063572
+171,133 Liverpool Road,1,-33.887273,151.099333
+172,"Brighton St, Croydon Park",1,-33.894755,151.10969
+173,Cook St Parking,1,-33.970228,151.080159
+174,Letitia St & Frederick St Parking,1,-33.981597,151.081572
+175,Goodwood St Parking,1,-33.907121,151.224119
+176,Anzac Parade Car Park,1,-33.943551,151.239711
+177,Morgan St Parking,1,-33.949251,151.081229
+178,Broadarrow Rd Parking,1,-33.948425,151.071068
+179,Stewart St East Car Park,2,-34.428268,150.90015
+180,Spencer St & Regatta Rd Parking,1,-33.869534,151.116173
+181,Beauchamp Rd Parking,1,-33.95632342,151.2265971
+182,JOLT Perry St ,1,-33.96104423,151.2309394
+183,Everton Park,1,-33.872106,151.095801
+184,Park Ave Parking,1,-33.873878,151.10192
+185,Lagoon St Carpark,1,-33.7138449,151.2984042
+186,"Ocean St, Narrabeen",1,-33.71941463,151.2986382
+187,Bunnings Caringbah,1,-34.02815,151.121855
+188,Motor Traders' Association of New South Wales,2,-33.86973363,151.1105925
+189,Dan Murphy's Burwood,1,-33.86937549,151.1077687
+190,Bungan Street,1,-33.676139,151.303111
+191,Mona Vale Library Car Park,1,-33.67606,151.303827
+192,JOLT Gardeners Road,2,-33.9206552,151.1913821
+193,Lancaster Motor Group- open now (station #1283) ,1,-32.57696806,151.1841952
+194,Tenterfield Visitors Information Centre,1,-29.057341,152.01889
+195,Little Barber St Parking Lot,1,-30.978145,150.250987
+196,Evans St Parking,1,-29.774714,151.114696
+197,Glen Innes Town Hall,1,-29.738463,151.736308
+198,Armidale Visitors Centre,1,-30.511924,151.669672
+199,Grafton Public Library,1,-29.68811,152.933421
+200,Little Walker St Parking,2,-28.865732,153.048478
+201,The Farm Byron Bay,2,-28.636128,153.55346
+202,Hands of Fame Park,1,-31.090437,150.927465
+203,Sovereign Place,2,-31.457966,152.827345
+204,Braidwood Servicemens Club & Golf Course,2,-35.4427778,149.7913735
+205,Cronulla Station Parking,1,-34.05770708,151.1519568
+206,1 Gregory Hills Drive Parking,2,-34.02032806,150.7634143
+207,Innovation Campus - SBRC Building 237,1,-34.40009045,150.8996111
+208,12C Oatley Parade Parking,1,-33.98151618,151.0794364
+209,Crossroads Hotel (2),1,-33.95822583,150.8865017
+210,Crossroads Hotel (1),1,-33.95798137,150.8864872
+211,NRMA - Gilgandra (Museum and Historical Society),2,-31.7223908,148.6571378
+212,Barrenjoey House carpark,1,-33.59705164,151.3200112
+213,7 Irvine Place Building,2,-33.73929068,150.9471975
+214,Rouse Hill Village Centre,1,-33.68326776,150.9165514
+215,JOLT The Ettamogah,2,-33.70049719,150.928112
+216,JOLT Glendenning,2,-33.73550468,150.8513475
+217,Roseville Station,1,-33.78289238,151.1752149
+218,Penrith Station Kiss and Ride,1,-33.75030592,150.6940727
+219,Berowra Station,1,-33.62387549,151.1518352
+220,Big 4 Holiday Park,1,-29.39484846,153.3121037
+221,Cabarita Beach,2,-28.33169054,153.5641405
+222,Narooma Supercharger,4,-36.223136,150.128346
+223,Centennial Plaza,4,-36.235522,149.126794
+224,Goulburn Visitor Information Centre,8,-34.755597,149.720984
+225,Yass ,12,-34.84359869,148.9139874
+226,Dubbo Supercharger,4,-32.24995,148.609182
+227,Oliver's Gundagai (2),6,-35.002013,148.109889
+228,Bathurst Visitor Information Centre,6,-33.41901,149.586756
+229,Hollydene Estate Wines,6,-32.447359,150.83232
+230,The Silos Estate,6,-34.808254,150.636711
+231,Hope St Parking Lot,6,-33.7451971,150.6103969
+232,HomeCo. Tuggerah Super Centre,6,-33.310237,151.420585
+233,South Village,6,-34.033791,151.073837
+234,Figtree Grove Shopping Centre,6,-34.43779838,150.8634488
+235,Campbelltown Catholic Club,12,-34.07153315,150.8073678
+236,Broadway Shopping Centre,8,-33.882995,151.194332
+237,Country Comfort Motto Farm Motel - Newcastle Airport,6,-32.78781734,151.727705
+238,Heatherbrae's Pies Exeter,6,-34.60926271,150.2299553
+239,Macquarie Centre,10,-33.776673,151.123048
+240,Harwood Hotel,4,-29.4269989,153.2391603
+241,Macadamia Castle,6,-28.749539,153.534722
+242,Park Beach Plaza,6,-30.281439,153.131666
+243,Cassegrain Winery,6,-31.4361,152.823582
+244,West Tamworth League Club,4,-31.101649,150.917126
+245,Coles Tenterfield,4,-29.05606654,152.0176587
+246,Quality Hotel Rules Club Wagga (2),6,-35.13100517,147.3397758
+247,Holbrook,9,-35.72274451,147.317551
+248,Commercial Club Albury,16,-36.07929418,146.9136097
+249,Tramsheds Harold Park (2),4,-33.87635779,151.177867
+250,Tweed Mall Shopping Centre,6,-28.17379051,153.5446309
+251,The Big Banana Fun Park,2,-30.27522635,153.1319391
+252,Sovereign Place Town Centre (2),12,-31.45774801,152.8268794
